@@ -1,0 +1,38 @@
+# Build artifacts
+Objects/
+Listings/
+*.axf
+*.lnp
+*.sct
+*.map
+*.htm
+*.dep
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+
+# Keil/MDK temp files
+*.ilk
+*.log
+
+# IDE files
+.vscode/
+*.user
+*.project
+
+# Backup files
+*~
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python env
+venv/
+__pycache__/
+
+# Project zip backups
+*.zip
